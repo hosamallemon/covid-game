@@ -1,0 +1,10 @@
+body {
+  font-family: 'Tajawal', sans-serif;
+}
+
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}

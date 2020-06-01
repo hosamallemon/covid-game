@@ -1,0 +1,38 @@
+
+#droppable {
+    width: 25%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+
+
+@media screen and (min-width: 1200px) {
+    #droppable {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    #droppable {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    #droppable {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    #droppable {
+        width: 80%;
+    }
+}
